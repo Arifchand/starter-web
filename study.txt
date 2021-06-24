@@ -1,0 +1,17 @@
+
+
+git difftool ---> difference between working directory and staging area
+
+git difftool HEAD --> difference between Remote directory and working directory
+
+git diff --staged HEAD --> Difference between Remote and stagging area
+
+git diff -- <filename> ---> diff of filename only
+
+git log  --> ommit history
+
+git diff <commit id> <commit ID -- last commit Head>
+
+git diff HEAD HEAD^  --> Diff bewwen last and one before last commit
+
+git diff mater origin/master
