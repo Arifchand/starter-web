@@ -1,0 +1,2 @@
+Hi This is sample file
+Created for just fun and learn git
